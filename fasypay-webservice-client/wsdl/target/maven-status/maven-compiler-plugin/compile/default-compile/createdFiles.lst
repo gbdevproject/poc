@@ -1,0 +1,10 @@
+net\webservicex\GetWeatherResponse.class
+net\webservicex\GlobalWeatherSoap.class
+net\webservicex\GlobalWeather.class
+net\webservicex\GlobalWeatherHttpPost.class
+net\webservicex\ObjectFactory.class
+net\webservicex\GlobalWeatherHttpGet.class
+net\webservicex\GetWeather.class
+net\webservicex\GetCitiesByCountryResponse.class
+net\webservicex\GetCitiesByCountry.class
+net\webservicex\package-info.class
