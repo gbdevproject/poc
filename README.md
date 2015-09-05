@@ -3,6 +3,8 @@
 1)First POC used Global Weather 
 
       END_POINT_URL="http://www.webservicex.com/globalweather.asmx?WSDL
+      
+Note: We will read END_POINT_URL from DB/properties file in future.
 
   The following operations are supported. 
 
@@ -26,6 +28,9 @@
 **Generate client jar from WSDL(SOAP WEBSERVICE)**
 
    1. fasypay-webservice-client/wsdl/MyWsdl.wsdl: Need to update this file and execute pom.xml under the same directory to generate the client jar from WSDL.
+
+
+
   
  
   
