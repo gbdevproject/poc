@@ -23,8 +23,8 @@
       a) Proxy Design Pattern: A remote proxy provides a local representative for an object that resides in a different address space. 
       b) Service Façade : A service façade component is used to abstract a part of the service architecture with negative coupling potential.
 
-Generate client jar from WSDL(SOAP WEBSERVICE)
-   1. fasypay-webservice-client/wsdl/
+**Generate client jar from WSDL(SOAP WEBSERVICE)**
+   1. fasypay-webservice-client/wsdl/MyWsdl.wsdl: Need to update this file and execute pom.xml under the same directory to generate the client jar from WSDL.
    
  
       
