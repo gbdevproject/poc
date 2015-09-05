@@ -1,4 +1,5 @@
 # fasypay-webservice-client
+
 1)First POC used Global Weather 
   END_POINT_URL="http://www.webservicex.com/globalweather.asmx?WSDL
 
@@ -9,7 +10,7 @@
   
   We have written a junit to test the above operations
   
-  GlobalWeatherTest: Use this junit test case(GlobalWeatherTest.java) to test the above operations.
+  GlobalWeatherTest: Use this junit test case to test the above operations.
   
       a) testGetCitiesByCountry
       b) testPerformGetWeather
