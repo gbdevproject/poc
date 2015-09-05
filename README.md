@@ -21,6 +21,6 @@
   We have used the following design pattern.
   
       a) Proxy Design Pattern: A remote proxy provides a local representative for an object that resides in a different address space. 
-      b) Service Façade : A service façade component is used to abstract a part of the service architecture with negative    coupling potential.
+      b) Service Façade : A service façade component is used to abstract a part of the service architecture with negative coupling potential.
  
       
