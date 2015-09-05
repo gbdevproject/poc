@@ -8,8 +8,8 @@
       b) GetWeather :Get weather report for all major cities around the world.
   
   We have written a junit to test the above operations
-  GlobalWeatherTest: Use this junit test case to test the above operations.
-  1. testGetCitiesByCountry
-  2. testPerformGetWeather
+    GlobalWeatherTest: Use this junit test case(GlobalWeatherTest.java) to test the above operations.
+      1. testGetCitiesByCountry
+      2. testPerformGetWeather
   
-FastPayClientStubPoolFactory.java: Make connection pooling for a web service.
+  FastPayClientStubPoolFactory.java: Make connection pooling for a web service.
