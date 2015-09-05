@@ -8,7 +8,9 @@
       b) GetWeather :Get weather report for all major cities around the world.
   
   We have written a junit to test the above operations
-    GlobalWeatherTest: Use this junit test case(GlobalWeatherTest.java) to test the above operations.
+  
+  GlobalWeatherTest: Use this junit test case(GlobalWeatherTest.java) to test the above operations.
+  
       a) testGetCitiesByCountry
       b) testPerformGetWeather
   
