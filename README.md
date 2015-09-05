@@ -1,7 +1,8 @@
 # fasypay-webservice-client
 
 1)First POC used Global Weather 
-  END_POINT_URL="http://www.webservicex.com/globalweather.asmx?WSDL
+
+      END_POINT_URL="http://www.webservicex.com/globalweather.asmx?WSDL
 
   The following operations are supported. 
 
